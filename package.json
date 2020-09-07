@@ -1,0 +1,15 @@
+{
+  "name": "viernes-baken-claud-jwt",
+  "version": "1.0.0",
+  "description": "App for JWT POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Vidueira",
+  "license": "ISC",
+  "dependencies": {
+    "js-base64": "^3.4.5",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
